@@ -1,2 +1,2 @@
 # Game Development
- I made a game, check it out for yourself!
+ I made a game in unity, check it out for yourself!
